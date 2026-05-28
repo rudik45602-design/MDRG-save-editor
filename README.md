@@ -93,9 +93,9 @@ python mdrg_editor.py path/to/save.mdrg
 
 | OS | Path |
 |---|---|
-| **Windows** | `C:\Users\USERNAME\AppData\LocalLow\YotaGames\MyDystopianRobotGirlfriend\` |
-| **Linux (Steam/Proton)** | `~/.steam/steam/steamapps/compatdata/<game_id>/pfx/drive_c/users/steamuser/AppData/LocalLow/YotaGames/MyDystopianRobotGirlfriend/` |
-| **macOS** | `~/Library/Application Support/YotaGames/MyDystopianRobotGirlfriend/` |
+| **Windows** | `C:\Users\USERNAME\AppData\LocalLow\IncontinentCell\My Dystopian Robot Girlfriend\Saves` |
+| **Linux (Steam/Proton)** | `~/.steam/steam/steamapps/compatdata/<game_id>/pfx/drive_c/users/steamuser/AppData/LocalLow/IncontinentCell/MyDystopianRobotGirlfriend/Saves` |
+| **macOS** | `~/Library/Application Support/IncontinentCell/MyDystopianRobotGirlfriend/Saves` |
 
 On Windows, you can open the folder quickly by pressing **Win+R** and typing `%appdata%`, then navigating one level up to `AppData\LocalLow`.
 
