@@ -44,14 +44,14 @@ No installation needed. Just download the script and run it.
 ### Option 1 — Download the script directly
 
 ```bash
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/mdrg-save-editor/main/mdrg_editor.py
+curl -O https://raw.githubusercontent.com/Rudolph-FedorOFF/mdrg-save-editor/main/mdrg_editor.py
 python mdrg_editor.py
 ```
 
 ### Option 2 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mdrg-save-editor.git
+git clone https://github.com/Rudolph-FedorOFF/mdrg-save-editor.git
 cd mdrg-save-editor
 python mdrg_editor.py
 ```
