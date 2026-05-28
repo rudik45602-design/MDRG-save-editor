@@ -99,7 +99,9 @@ python mdrg_editor.py path/to/save.mdrg
 
 On Windows, you can open the folder quickly by pressing **Win+R** and typing `%appdata%`, then navigating one level up to `AppData\LocalLow`.
 
-> **Tip:** Make a backup copy of your `save.mdrg` before editing!
+**It is important to locate the file M1.mdrgslot, then manually rename it to M1.mdrg, and only then open it in the editor.**
+
+> **Tip:** Make a backup copy of your `M1.mdrg` before editing!
 
 ---
 
