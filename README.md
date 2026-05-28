@@ -1,6 +1,6 @@
 # MDRG Save Editor
 
-A simple graphical save file editor for **My Dystopian Robot Girlfriend** (free version and beyond).
+A simple graphical save file editor for **My Dystopian Robot Girlfriend** (version 0.96.7).
 
 Allows you to edit in-game parameters — money, stats, relationship values, flags — directly from a `.mdrg` save file, without touching any game internals.
 
